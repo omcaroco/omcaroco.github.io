@@ -3,7 +3,7 @@ layout: post
 title: Starting with GitHub Pages & Free Software!
 ---
 
-```
+<pre class="code">
 import java.util.*
 
 public static void main(static args){
@@ -12,7 +12,6 @@ public static void main(static args){
 		System.out.println("WORK, Work, work");
 		}
 }
-```
+</pre>
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
