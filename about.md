@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interest
+title: Interests
 permalink: /about/
 ---
 <table style="width:100%">
