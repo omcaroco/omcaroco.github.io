@@ -18,7 +18,7 @@ permalink: /about/
 
 ### More Information
 
-I'm Systems and computer science engineer from National University of Colombia, Working in develop of Information Systems.
+I'm Systems and computer science engineer from National University of Colombia, Working in Information Systems develop.
 
 ### Contact me
 
