@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About
+title: Interest
 permalink: /about/
 ---
-
-Some information about you!
+<table style="width:100%">
+  <tr>
+    <th>Software Engineering</th>
+    <th>Software with purpose</th>		
+    <th>Hobbies</th>
+  </tr>
+  <tr>
+    <td>All about software develop, software archictecture and artificial intelligence.</td>
+    <td>An idea about how to make software that solve the problems of people from my country</td>		
+    <td>Guitar & VideoGames</td>
+  </tr>
+</table>
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I'm Systems and computer science engineer from National University of Colombia, Working in develop of Information Systems.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[omcaroco@gmail.com](mailto:omcaroco@gmail.com)
