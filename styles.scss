@@ -1,0 +1,64 @@
+$primary-color: #01243B;
+$secondary-color: #336699;
+$light-color: #E9ECEF;
+$dark-color: #050505;
+$normal-text: 18px;
+$icon-text: 32px;
+$vertical-space: 15%;
+$font-family-sans-serif: Arial, Helvetica, sans-serif;
+$default-padding: 20px;
+
+#photo {
+    background-color: $secondary-color;
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: $vertical-space;
+}
+
+#body {
+  background-color: $light-color;
+}
+
+hr {
+  background-color: $light-color;
+  border-color: $light-color;
+  height: 1px;
+}
+
+.right-panel {
+  background-color: $light-color;
+  color: $primary-color;
+  padding: $default-padding;
+  text-align: center;
+
+  .skills {
+    text-align: left;
+    .subtitle {
+      text-align: center;
+    }
+  }
+
+  a {
+    font-size: $normal-text;
+  }
+}
+
+.left-panel {
+  background-color: $primary-color;
+  color: $light-color;
+  padding: $default-padding;
+}
+
+.card-font {
+  color: $secondary-color;
+  text-align: justify;
+  font-family: $font-family-sans-serif;
+  background-color: $light-color;
+  hr {
+    border-color: $primary-color;
+  }
+}
+
+.ic {
+  font-size: $icon-text;
+}
