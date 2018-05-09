@@ -15,9 +15,13 @@ hr {
   height: 1px;
 }
 
+h2 {
+  color: #666666;
+}
+
 .right-panel {
   background-color: #E9ECEF;
-  color: #01243B;
+  color: #336699;
   padding: 20px;
   text-align: center;
 }
@@ -30,11 +34,17 @@ hr {
 .right-panel a {
   font-size: 18px;
 }
+.right-panel i {
+  color: darkslategray;
+}
 
 .left-panel {
-  background-color: #01243B;
-  color: #E9ECEF;
+  background-color: #FFFFFF;
+  color: #336699;
   padding: 20px;
+}
+.left-panel small {
+  color: #666666;
 }
 
 .card-font {
@@ -44,7 +54,7 @@ hr {
   background-color: #E9ECEF;
 }
 .card-font hr {
-  border-color: #01243B;
+  border-color: #FFFFFF;
 }
 
 .ic {

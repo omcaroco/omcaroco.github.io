@@ -1,7 +1,7 @@
-$primary-color: #01243B;
+$primary-color: #FFFFFF;
 $secondary-color: #336699;
 $light-color: #E9ECEF;
-$dark-color: #050505;
+$dark-color: #666666;
 $normal-text: 18px;
 $icon-text: 32px;
 $vertical-space: 15%;
@@ -25,9 +25,13 @@ hr {
   height: 1px;
 }
 
+h2 {
+    color: $dark-color;
+}
+
 .right-panel {
   background-color: $light-color;
-  color: $primary-color;
+  color: $secondary-color;
   padding: $default-padding;
   text-align: center;
 
@@ -41,12 +45,21 @@ hr {
   a {
     font-size: $normal-text;
   }
+
+  i {
+      color: darkslategray;
+  }
+
 }
 
 .left-panel {
   background-color: $primary-color;
-  color: $light-color;
+  color: $secondary-color;
   padding: $default-padding;
+
+  small {
+    color: $dark-color;
+  }
 }
 
 .card-font {
